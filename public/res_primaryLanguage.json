@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Mashood Murtaza. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Mashood Murtaza, a Native Mobile Developer from Lahore, PK. I specialize in iOS development, although my passion is in mobile as a whole, so I do cross the bridge to Android quite often. I have experience working on enterprise apps supporting large customer bases as well as supporting apps from 0 to App Store. Some of my other passions are API development (ASP.net web APIs), database (SSMS) and Angular. If you would like to know more, please reach out to me. I always love to talk shop. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "ONLINEdoc",
+        "startDate": "2021",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
